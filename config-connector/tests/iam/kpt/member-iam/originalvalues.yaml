@@ -1,0 +1,2 @@
+# File type and content structure to be determined.
+project-id: "\${PROJECT_ID?}"

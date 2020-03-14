@@ -1,0 +1,2 @@
+# File type and content structure to be determined.
+project-id: "$(gcloud config get-value project)"
