@@ -8,7 +8,7 @@
 
 ## Dependencies:
 
-* The namespace is annotated with the project ID of the new project.
+* The namespace is named after the project ID of the new project.
 * The pubsub topic is created in the new namespace, i.e. the corresponding GCP pubsubtopic is created in the new project.
 
 ## Warning

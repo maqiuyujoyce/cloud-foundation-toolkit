@@ -15,6 +15,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  annotations:
-    cnrm.cloud.google.com/project-id: test-project-id-for-cross-project-scenario
-  name: namespace-to-manage-resources-in-a-new-project
+  name: test-project-id-for-cross-project-scenario
