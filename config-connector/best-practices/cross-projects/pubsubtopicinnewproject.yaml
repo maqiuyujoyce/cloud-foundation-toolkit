@@ -15,5 +15,5 @@
 apiVersion: pubsub.cnrm.cloud.google.com/v1beta1
 kind: PubSubTopic
 metadata:
-  namespace: test-project-id-for-cross-project-scenario
+  namespace: namespace-to-manage-resources-in-a-new-project
   name: pubsubtopic-in-new-project
